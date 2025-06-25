@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 # Hi, I'm OnuegbuUdochukwu 👋
 
 Welcome to my GitHub profile!
-
-Here is my 3D GitHub contribution calendar:
 <!--
+Here is my 3D GitHub contribution calendar:
+
 ![3D Green Animated Calendar](https://github.com/OnuegbuUdochukwu/OnuegbuUdochukwu/raw/main/profile-3d-contrib/profile-green-animate.svg)
 
 ![3D Season Animated Calendar](https://github.com/OnuegbuUdochukwu/OnuegbuUdochukwu/raw/main/profile-3d-contrib/profile-season-animate.svg)
