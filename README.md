@@ -44,7 +44,7 @@ Here is my 3D GitHub contribution calendar:
 <summary>🏆 <strong>GitHub Achievements Checklist (click to expand)</strong></summary>
 
 - [ ] 🧊 **Arctic Code Vault Contributor** – Contributed to the 2020 Arctic archive  
-- [ ] 💥 **YOLO** – Merged your own pull request without review  
+- [X] 💥 **YOLO** – Merged your own pull request without review  
 - [ ] 🦈 **Pull Shark** – Got a pull request merged  
 - [ ] 👯‍♂️ **Pair Extraordinaire** – Co-authored a commit with someone  
 - [ ] 🧠 **Galaxy Brain** – Got 2+ reactions on a comment/discussion  
