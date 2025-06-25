@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
 **OnuegbuUdochukwu/OnuegbuUdochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm OnuegbuUdochukwu 👋
+
+Welcome to my GitHub profile!
+
+Here is my 3D GitHub contribution calendar:
+
+![3D Green Animated Calendar](https://github.com/OnuegbuUdochukwu/OnuegbuUdochukwu/raw/main/profile-3d-contrib/profile-green-animate.svg)
+
+![3D Season Animated Calendar](https://github.com/OnuegbuUdochukwu/OnuegbuUdochukwu/raw/main/profile-3d-contrib/profile-season-animate.svg)
+
+![3D Night View](https://github.com/OnuegbuUdochukwu/OnuegbuUdochukwu/raw/main/profile-3d-contrib/profile-night-view.svg)
