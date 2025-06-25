@@ -39,6 +39,25 @@ Here is my 3D GitHub contribution calendar:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OnuegbuUdochukwu&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+
+<details>
+<summary>🏆 <strong>GitHub Achievements Checklist (click to expand)</strong></summary>
+
+- [ ] 🧊 **Arctic Code Vault Contributor** – Contributed to the 2020 Arctic archive  
+- [ ] 💥 **YOLO** – Merged your own pull request without review  
+- [ ] 🦈 **Pull Shark** – Got a pull request merged  
+- [ ] 👯‍♂️ **Pair Extraordinaire** – Co-authored a commit with someone  
+- [ ] 🧠 **Galaxy Brain** – Got 2+ reactions on a comment/discussion  
+- [ ] ⚡ **Quickdraw** – Opened a PR within 5 minutes of creating a repo  
+- [ ] ⭐ **Starstruck** – Repo starred by someone  
+- [ ] ❤️ **Public Sponsor** – Sponsored a dev publicly  
+- [ ] 🔮 **Open Sourcerer** – Merged PRs in public projects you don’t own  
+- [ ] 🚀 **Pull Blaster** – Merged several PRs quickly  
+- [ ] 🧙 **Code Whisperer** – Left helpful review comments  
+- [ ] 🌟 **GitHub Star** – Awarded GitHub Star  
+- [ ] 🐙 **Mona’s Friend** – Hidden Easter egg
+
+</details>
 <!-- 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OnuegbuUdochukwu&limit=5&theme=dark&combine_all_yearly_contributions=true)
