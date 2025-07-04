@@ -90,7 +90,7 @@ Here is my 3D GitHub contribution calendar:
 
 - [ ] 🧊 **Arctic Code Vault Contributor** – Contributed to the 2020 Arctic archive  
 - [X] 💥 **YOLO** – Merged your own pull request without review  
-- [ ] 🦈 **Pull Shark** – Got a pull request merged  
+- [X] 🦈 **Pull Shark** – Got a pull request merged  
 - [ ] 👯‍♂️ **Pair Extraordinaire** – Co-authored a commit with someone  
 - [ ] 🧠 **Galaxy Brain** – Got 2+ reactions on a comment/discussion  
 - [ ] ⚡ **Quickdraw** – Opened a PR within 5 minutes of creating a repo  
