@@ -83,7 +83,7 @@ Here is my 3D GitHub contribution calendar:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnuegbuUdochukwu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Roadmap.sh
-[![roadmap.sh](https://roadmap.sh/card/tall/66b56bb20f660dfe9f634dba?variant=dark&roadmaps=java%2Cbackend%2Cspring-boot)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66b56bb20f660dfe9f634dba?variant=dark)](https://roadmap.sh)
 
 
 ## 🏆 GitHub Trophies
