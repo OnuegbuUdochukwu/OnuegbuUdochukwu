@@ -114,8 +114,9 @@ Here is my 3D GitHub contribution calendar:
 ---
 [![](https://visitcount.itsvg.in/api?id=OnuegbuUdochukwu&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnuegbuUdochukwu&theme=rogue" alt="Contribution Graph" />
-</p>
+</p> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OnuegbuUdochukwu&theme=rogue" alt="Contribution Graph" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
