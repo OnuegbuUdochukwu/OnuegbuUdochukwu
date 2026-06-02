@@ -78,6 +78,7 @@ Here is my 3D GitHub contribution calendar:
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=OnuegbuUdochukwu)](https://github.com/OnuegbuUdochukwu/github-readme-stats-fast)
 ![](https://github-readme-stats.vercel.app/api?username=OnuegbuUdochukwu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OnuegbuUdochukwu&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnuegbuUdochukwu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
